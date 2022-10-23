@@ -1,8 +1,8 @@
-= Master
+= Discord Avatar Thief Backend
 
 image:https://img.shields.io/badge/vert.x-4.3.4-purple.svg[link="https://vertx.io"]
 
-This application was generated using http://start.vertx.io
+This application is written in Kotlin using Vert.x and the ReactiveX (RxJava2) library.
 
 == Building
 
